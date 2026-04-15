@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
+##### 🚀 Data Engineer | Spark • Airflow • AWS
 
-<!--
-**AramisN/AramisN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build scalable data platforms and production-grade pipelines using Spark and Airflow, with a strong focus on data modeling, reliability, and performance.  
+Currently working with AWS-based data architectures (S3, EMR) and improving cloud-native data engineering practices.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 🧰 Tech Stack
+
+**⚙️ Data Engineering:** PySpark, Spark SQL, Airflow, Kafka  
+**☁️ Cloud:** AWS (S3, EMR, RDS, ECS, ECR)  
+**🧠 Modeling:** Data Modeling, ELT, Schema Design  
+**🔧 DevOps:** Docker, CI/CD (GitLab), Linux  
+
+
+##### 📫 Contact
+
+🔗 LinkedIn: https://linkedin.com/in/amirhossein7nasirianfar
