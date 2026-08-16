@@ -15,4 +15,4 @@ Currently working with AWS-based data architectures (S3, EMR) and improving clou
 
 ##### 📫 Contact
 
-🔗 LinkedIn: https://linkedin.com/in/amirhossein7nasirianfar
+🔗 LinkedIn: https://linkedin.com/in/aleksih
